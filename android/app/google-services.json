@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658201579716",
+    "firebase_url": "https://any-downloader-9a640.firebaseio.com",
+    "project_id": "any-downloader-9a640",
+    "storage_bucket": "any-downloader-9a640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658201579716:android:5c60e4711b97579409f991",
+        "android_client_info": {
+          "package_name": "adh.anydownloader.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658201579716-k170orsqr15dhe9hrnasohsln7t57vpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZd_J3r_it5JAaeNgXUFFKqZTkNUYA8u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658201579716-k170orsqr15dhe9hrnasohsln7t57vpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
